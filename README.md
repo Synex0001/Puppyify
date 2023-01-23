@@ -1,5 +1,5 @@
 # Doggyfy
-Simple javascript code, where it replaces all images in a website into a random picture of a dog.
+Simple javascript, where it replaces all images in a website into a random picture of a dog.
 
 
 # How to use it
