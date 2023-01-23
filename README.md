@@ -3,7 +3,7 @@ Simple javascript code, where it replaces all images in a website into a random 
 
 
 # How to use it
-1. Copy the code in the github.
+1. Copy the code in Doggyfy.
 2. Make a bookmark and call it doggyfy, and click the button where it says more and paste the code where it says website.
 3. Click done.
 4. Go to any website with images.
