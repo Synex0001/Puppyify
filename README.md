@@ -3,9 +3,10 @@ Simple javascript, where it replaces all images in a website into a random pictu
 
 
 # How to use it
-1. Copy the code in Puppyify.
-2. Right-click the bookmark bar then press paste.
-3. Click Puppyify bookmark then you're done.
+1. Open the console in your browser.
+2. Copy the code from Puppyify.
+3. Paste the code into the console and press enter.
+4. You’re done!
 
 # Enjoy!
 
